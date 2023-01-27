@@ -25,8 +25,7 @@ function Home() {
         <FeaturesBlocks />
         <Testimonials />
       </main>
-      {/*  Site footer */}
-      <Footer />
+
 
     </div>
   );
